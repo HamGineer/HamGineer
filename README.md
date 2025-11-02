@@ -2,16 +2,17 @@
 
 ## 🚀 About Me
 
-Welcome to my GitHub! I’m a passionate developer with a strong background in Java, web technologies, and geographic information systems. I’m currently expanding my expertise into AI, modern front-end frameworks, and advanced mapping solutions.
+Welcome to my GitHub! I’m a passionate developer with a strong background in web technologies, Java and geographic information systems. I’m currently expanding my expertise into AI, modern front-end frameworks, and advanced mapping solutions.
 
 ---
 
 ## 🧑‍💻 Projects & Contributions
 
+- **[Angular](https://github.com/angular/angular):** Exploring and contributing to the Angular framework. See my [StackBlitz](https://stackblitz.com/) for live demos and experiments with the latest Angular features.
+  
 - **[Batch payment history processor](https://github.com/haddouguihamza/batch-payment-history-processor):** A Spring Batch and Maven-powered pipeline that ingests and processes fixed-length flat file holding historical transaction records, delivering high-throughput, fault-tolerant financial record management.
 
 - **[Struts demo application](https://github.com/haddouguihamza/Struts6-Springboot):** Modern Java web stack demo integrating Struts MVC with Spring Boot.
-- **[Angular](https://github.com/angular/angular):** Exploring and contributing to the Angular framework. See my [StackBlitz](https://stackblitz.com/) for live demos and experiments with the latest Angular features.
 
 ---
 
@@ -41,9 +42,11 @@ I have 6+ months of hands-on experience designing and developing geographic syst
 ## 🛠️ Tech Stack
 
 - **Languages:** JavaScript, TypeScript, Java, PHP, Python
-- **Frameworks:** Spring Boot, Spring Batch, Struts, Angular, Mapbox GL JS
-- **Tools:** Maven, Git, GitHub Actions, StackBlitz, Mapbox Studio
-- **Data:** GeoJSON, non-relational databases, relational databases
+- **Frameworks:** Angular, NestJS, Spring Boot, Spring Batch, Struts, Mapbox
+- **DevOps:** Git, GitHub, GitHub Actions, GitLab, Docker
+- **Tools:** Microsoft 365, Google Workspace, AWS, JIRA, Maven, StackBlitz, Mapbox Studio
+- **Integrated Development Environments (IDE):** Visual Studio Code, Eclipse
+- **Data:** relational databases, non-relational databases, GeoJSON
 
 ---
 
@@ -57,7 +60,7 @@ I have 6+ months of hands-on experience designing and developing geographic syst
 ## 📢 Recent Activities
 
 - Reporting issues and providing feedback for **GitHub Copilot** and Microsoft’s developer learning resources.
-- Working on resolving duplicate/outdated versions of my LinkedIn profile with LinkedIn Help and Google Search Console.
+- Resolved duplicate/outdated versions of my LinkedIn profile using LinkedIn Help, Google Search Console and Microsoft Bing content removal tool.
 
 ---
 
@@ -67,8 +70,8 @@ You can reach me and follow my work at:
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/haddougui-hamza)
 - 🗣️ [Sessionize](https://sessionize.com/hamzahaddougui)
-- 📸 [Instagram](https://www.instagram.com/hamzouzi.engineer1)
-- 📘 [Facebook](https://www.facebook.com/hamzouzengine)
+- 📸 [Instagram](https://www.instagram.com/iamhamzouzi1)
+- 📘 [Facebook](https://www.facebook.com/iamhamzouzi1)
 ---
 
 *Let’s connect and build the next generation of reliable, scalable, fault-tolerant, business-driven, intelligent and interactive applications.*

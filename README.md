@@ -42,7 +42,7 @@ I have 6+ months of hands-on experience designing and developing geographic syst
 ## 🛠️ Tech Stack
 
 - **Languages:** JavaScript, TypeScript, Java, PHP, Python
-- **Frameworks:** Angular, NestJS, Spring Boot, Spring Batch, Struts, Mapbox
+- **Frameworks:** Angular, NestJS, ReactJS, NextJS, Spring Boot, Spring Batch, Struts, Mapbox
 - **DevOps:** Git, GitHub, GitHub Actions, GitLab, Docker
 - **Tools:** Microsoft 365, Google Workspace, AWS, JIRA, Maven, StackBlitz, Mapbox Studio
 - **Integrated Development Environments (IDE):** Visual Studio Code, Eclipse
@@ -53,7 +53,6 @@ I have 6+ months of hands-on experience designing and developing geographic syst
 ## 🤝 Collaboration
 
 - Open to collaborating on **web applications**, Java applications, **automated solutions for repetitive tasks**, and **geographic information systems**.
-- Active on **DataAnnotation**, contributing to AI model improvement with expertise in both technical and non-technical domains.
 
 ---
 
@@ -68,7 +67,7 @@ I have 6+ months of hands-on experience designing and developing geographic syst
 
 You can reach me and follow my work at:
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/haddougui-hamza)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hamza-haddougui)
 - 🗣️ [Sessionize](https://sessionize.com/hamzahaddougui)
 - 📸 [Instagram](https://www.instagram.com/iamhamzouzi1)
 - 📘 [Facebook](https://www.facebook.com/iamhamzouzi1)
